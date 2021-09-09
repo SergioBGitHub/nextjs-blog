@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3",
+    "gray-matter": "file:node_modules/gray-matter",
     "next": "^11.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
